@@ -2,7 +2,7 @@ import 'networking.dart';
 
 
 
-const APIurl = 'https://api.themoviedb.org/3/movie/now_playing?api_key=6d528a43e36b13fc944b7f1b1bee6648&language=en-US&page=1';
+const APIurl = 'https://api.themoviedb.org/3/movie/now_playing?api_key=['Your API KEY']&language=en-US&page=1';
 
 
 
