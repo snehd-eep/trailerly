@@ -8,6 +8,13 @@ A flutter application to watch trailers of currently playing movies
 <p>
  Home Screen displaying the movies in grid
   
- ![]('images/home.jpg')
+ ![](images/home1.jpg)
+ 
+ 
+ 
+ <p>
+ Video screen to play the trailer
+ 
+ ![](images/video.jpg)
 
 
