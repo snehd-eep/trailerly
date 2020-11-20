@@ -2,7 +2,7 @@ import 'package:flutter/cupertino.dart';
 
 import 'networking.dart';
 
-const baseAPIurl = 'https://youtube.googleapis.com/youtube/v3/search?part=snippet&channelId=UCi8e0iOVk1fEOogdfu4YgfA&maxResults=1&safeSearch=none&key=AIzaSyAL3vhy-iycV9oehN8nKSoEefREGLmZYL4';
+const baseAPIurl = 'https://youtube.googleapis.com/youtube/v3/search?part=snippet&channelId=UCi8e0iOVk1fEOogdfu4YgfA&maxResults=1&safeSearch=none&key=[Your API Key]';
 
 
 class MoviesInfo{
