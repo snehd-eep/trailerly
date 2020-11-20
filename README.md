@@ -8,6 +8,10 @@ A flutter application to watch trailers of currently playing movies
      
 <br>Not much work done on the UI part.
 
+<p><b> How to use </b>
+     Get tmdb api key and paste in the movies file link.
+     <br>Get the google api key and paste in movies data file link.
+
 
 <p>
  Home Screen displaying the movies in grid
