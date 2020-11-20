@@ -1,16 +1,7 @@
 # trailerly
 
-A new Flutter application.
+A flutter application to watch trailers of currently playing movies
+I used tmdb API to get movies list, youtube API to get the trailer video id and youtube_player_flutter to play youtube videos.
+Not much work done on the UI part.
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
